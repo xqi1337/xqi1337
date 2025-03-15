@@ -1,4 +1,4 @@
-```console
+``` console
 xqi1337@github:~$ neofetch
 ```
 
