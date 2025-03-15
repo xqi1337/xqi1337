@@ -26,11 +26,11 @@ Pronouns: He/Him
 Location: Germany, DE
 Cheat: Skeet
 Languages: Python, Lua
-Learning: Node.js
+Learning: Bash
 Hobbies: Cooking, Gaming
-Commits: {{ COMMITS }} 
-Stars: {{ STARS }}
+Interests: Network Security & Web Security
 Discord: xqi
+
 
 
 
