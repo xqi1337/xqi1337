@@ -22,7 +22,7 @@ xqi1337@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Pronouns: He/Him
+Pronouns: Op/Sec
 Location: Germany, DE
 Cheat: Skeet
 Languages: Python, Lua
