@@ -28,7 +28,7 @@ Cheat: Skeet
 Languages: Python, Lua
 Learning: Bash
 Hobbies: Cooking, Gaming
-Interests: Network Security & Web Security
+Interests: Network Sec & Web Sec
 Discord: xqi
 
 
