@@ -65,7 +65,7 @@ CATching bugs in code...
           __\OO/"    "OOOOOOOOOOOOOOOOOOOO`OOOOOOOOOOOOO"
             /|\   .oOOooo- `OOOOOOOO""   .O`OOOOOOOOOO'
                .oOOOO"~    .OOOOO'      QQOOO`OOOOOOOOOo
-   [bug]   -QQOOO"~       .OOOOO'                 `OOOOO
+   [bug]   -QQOOO"~       .OOOOO'                 `OOOOO 
                          .OOOO'                  QQQQO"
                        QQQQO"
 ```
