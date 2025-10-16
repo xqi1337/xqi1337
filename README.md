@@ -45,10 +45,10 @@ Discord: xqi
 
 
 ```console
-xqi1337@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
-```
+xqi1337@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs"  >> /tmp/crontab$$
+``` 
 
-```
+```Re
 [sudo] Password for xqi1337:
 
 CATching bugs in code...
