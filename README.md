@@ -28,7 +28,7 @@ Cheat: Skeet
 Languages: Python, Lua
 Learning: Bash
 Hobbies: Cooking, Gaming
-Interests: Network Sec & Web Sec
+Interests: Network Security & Web Security
 Discord: xqi
 
 
@@ -43,10 +43,9 @@ Discord: xqi
 <img alt="#917b88" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/95e3ed.png" width="25" height="20" />
 </p>
 
-
 ```console
-xqi1337@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs"  >> /tmp/crontab$$
-``` 
+xqi1337@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+```
 
 ```
 [sudo] Password for xqi1337:
