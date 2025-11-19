@@ -23,12 +23,13 @@ xqi1337@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: Op/Sec
+Status: FISI
 Location: Germany, DE
 Cheat: Skeet
 Languages: Python, Lua
-Learning: Bash
+Learning: Linux Server, Networking
 Hobbies: Cooking, Gaming
-Interests: Network Security & Web Security
+Interests: Sys Administration & IT-Security
 Discord: xqi
 
 
