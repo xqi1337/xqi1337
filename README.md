@@ -6,13 +6,13 @@ xqi1337@github:~$ neofetch
  _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
-      /\
-     /  \
-    /    \
-   /      \
-  /   ,,   \
- /   |  |   \
-/_-''    ''-_\
+        /\       
+       /  \      
+      /\   \     
+     / > ω <\    
+    /   __   \   
+   / __|  |__-\  
+  /_-''    ''-_\  
 ```
 
 <img align="left" src="https://github.com/xqi1337/xqi1337/blob/main/cropped.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
@@ -29,7 +29,7 @@ Cheat: Skeet
 Languages: Python, Lua
 Learning: Linux Server, Networking
 Hobbies: Cooking, Gaming
-Interests: Sys Administration & IT-Security
+Interests: Sys Administration & IT-Sec
 Discord: xqi
 
 
