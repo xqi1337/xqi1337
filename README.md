@@ -1,5 +1,5 @@
 ```console
-xqi1337@github:~$ neofetch
+xqi1337@github:~$ fastfetch
 ```
 
 ```
